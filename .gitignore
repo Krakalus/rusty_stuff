@@ -1,0 +1,7 @@
+# Rust ignores – works for EVERY Cargo project in this folder and subfolders
+/target/
+
+# Optional bonus ignores (super common)
+**/*.rs.bk
+Cargo.lock
+*.profraw

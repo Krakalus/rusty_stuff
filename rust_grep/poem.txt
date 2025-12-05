@@ -1,0 +1,27 @@
+The Rusty Crab
+(by Grok & You 🦀❤️)
+
+In the land of borrow checker,
+Lives a crab that's quite the wrecker.
+With its claws of red and blue,
+It fights the bugs that bother you!
+
+Fearless ownership it claims,
+No null pointers, no wild flames.
+Move semantics, so clean and tight,
+References borrowed left and right.
+
+When panic comes, it does not crash,
+unwrap_or_else will save your hash.
+With match and if let so grand,
+Patterns flow like grains of sand.
+
+Cargo build and cargo run,
+Testing code is so much fun!
+From newbie fear to fearless might,
+We code in Rust both day and night!
+
+So raise your claws and cheer with me,
+For Rust has set our hearts all free!
+The future's safe, the future's bright,
+Thanks to the crab that owns the night! 🦀✨
